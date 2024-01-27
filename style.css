@@ -1,0 +1,190 @@
+*{
+    padding: 0;
+    margin: 0; 
+}
+  
+  .wrapper {
+    display: flex;
+  }
+  .indam {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.46px;
+  }
+  .mau {
+    color: #6de1c2;
+    font-family: Montserrat;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.46px;
+  }
+  .chu {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.14px;
+  }
+  .name {
+    color: #8e8e8e;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0.5px;
+    border: none;
+    border-bottom: 1px solid #8e8e8e;
+    width: 38%;
+  }
+  .mauxanh {
+    color: blue;
+  }
+  .doimau {
+    color: var(--Primeraly-White, #fff);
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    display: flex;
+    width: 549px;
+    padding: 8px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    background: #0982fe;
+    border: 0;
+  }
+  .thaymau {
+    color: var(--Primeraly-White, #fff);
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  }
+  .Street {
+    color: #8e8e8e;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0.5px;
+    border: none;
+    border-bottom: 1px solid #8e8e8e;
+    width: 38%;
+  }
+  .City {
+    color: var(--Input-text, #8e8e8e);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0.5px;
+    border: none;
+    border-bottom: 1px solid #8e8e8e;
+    width: 23%;
+  }
+  .Postcode {
+    color: #8e8e8e;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0.5px;
+    border: none;
+    border-bottom: 1px solid #8e8e8e;
+  }
+  .cach {
+    display: flex;
+    height: 46px;
+    align-items: flex-start;
+    gap: 24px;
+  }
+  .Form-content {
+    display: flex;
+    padding-top: 12px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .hehe {
+    display: flex;
+    width: 520px;
+    padding: 40px 16px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+    gap: 24px;
+    border: 1px dashed var(--Input-text, #8e8e8e);
+  }
+  .file {
+    color: #8e8e8e;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0.5px;
+  }
+  .MAUDONG {
+    color: #8e8e8e;
+  }
+  .icon-text {
+    display: flex;
+    flex-direction: column;
+  }
+  .icon-item {
+    display: flex;
+    gap: 15px;
+  }
+  .do {
+    color: red;
+  }
+  .van {
+    display: flex;
+    flex-direction: column;
+  }
+  .lien {
+    display: flex;
+    gap: 15px;
+  }
+  .tong {
+    display: flex;
+    gap: 50px;
+  }
+  .vu {
+    display: flex;
+    flex-direction: column;
+  }
+  .thanh {
+    display: flex;
+    gap: 15px;
+  }
+  .google-map{
+    width: 638px;
+    height: 819px;
+    flex-shrink: 0;
+  }
